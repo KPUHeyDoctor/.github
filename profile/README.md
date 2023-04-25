@@ -37,3 +37,7 @@
     2. CI/CD 작동
 7. 애플리케이션 장애가 발생하면 `main` → `hotfix/{문제상황}` 브랜치로 분기
     1. 버그를 고치고 `main`으로 merge
+
+
+### 시스템 구성도 
+<img width="996" alt="스크린샷 2023-04-25 오후 11 55 48" src="https://user-images.githubusercontent.com/99026631/234317326-95ad2bda-f8ae-444f-8f99-6defefa9b7be.png">
