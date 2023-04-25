@@ -41,3 +41,6 @@
 
 ### 시스템 구성도 
 <img width="996" alt="스크린샷 2023-04-25 오후 11 55 48" src="https://user-images.githubusercontent.com/99026631/234317326-95ad2bda-f8ae-444f-8f99-6defefa9b7be.png">
+
+### 시스템 모듈 상세 설계 - 챗봇
+<img width="996" alt="스크린샷 2023-04-25 오후 11 57 17" src="https://user-images.githubusercontent.com/99026631/234317761-18156706-79ce-4ef9-a55b-7e545ea80e1d.png">
