@@ -31,5 +31,8 @@ https://tukdoctor.shop
 - `feature` : 기능을 개발하는 브랜치
 
 
+### 아키텍처
+<img width="939" alt="스크린샷 2023-06-08 오후 8 22 05" src="https://github.com/KPUHeyDoctor/.github/assets/99026631/b3017b02-2ae0-4fbf-83f1-e8ae14a02cc7">
+
 ### 시스템 모듈 상세 설계 - 챗봇
 <img width="996" alt="스크린샷 2023-04-25 오후 11 57 17" src="https://user-images.githubusercontent.com/99026631/234317761-18156706-79ce-4ef9-a55b-7e545ea80e1d.png">
