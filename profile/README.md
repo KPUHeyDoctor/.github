@@ -2,7 +2,7 @@
 -  ### Health self-diagnosis using AI chatbot and online reservation service for nearby hospital
 
 ### Production
-https://tukdoctor.shop
+https://tukdoctor.shop(현재 배포 중단)
 
 ### 연구 개발 배경
 - 주기적인 병원 방문
